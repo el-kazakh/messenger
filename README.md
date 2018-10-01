@@ -12,7 +12,7 @@
     * Create virtual environment: python3 -m venv <dir name>
     * cd <"dir name">
     * source bin\activate <"dir name">
-    * in console -> pypi_chat
+    * in console -> pypi-chat
 
 * on windows:
     * pip install virtualenv
@@ -23,12 +23,12 @@
 
 ### How do I RUN? ###
 * PYTHON 3 !!!
-* in console -> pypi_chat_client
+* in console -> pypi-chat
 
 * IF YOU DON'T WANT TO CREATE virtual environment (for some reason ;))
     * Just pip install and:
-        * on windows: run cmd >> python3 <your python way>/scripts/pypi_chat_client
-        * on linux: in console >> pypi_chat_client
+        * on windows: run cmd >> python3 <your python way>/scripts/pypi-chat
+        * on linux: in console >> pypi-chat
 
 ### TO DO ###
 * LEARN!
