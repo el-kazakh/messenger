@@ -19,7 +19,7 @@
     * virtualenv <имя виртуального окружения>
     * <имя виртуального окружения>\Scripts\activate
 
-* pip install pypi_chat
+* pip install pypi-chat
 
 ### How do I RUN? ###
 * PYTHON 3 !!!
